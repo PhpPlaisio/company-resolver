@@ -1,0 +1,16 @@
+{
+  "name": "setbased/abc-domain-resolver",
+  "description": "SetBased ABC Framework",
+  "keywords": [
+    "framework",
+    "domain",
+    "resolver"
+  ],
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "SetBased\\Abc\\DomainResolver\\": "src/"
+    }
+  }
+}
