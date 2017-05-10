@@ -13,6 +13,9 @@ interface DomainResolver
    * Returns the domain (a.k.a. company abbreviation).
    *
    * @return string
+   *
+   * @api
+   * @since 1.0.0
    */
   public function getDomain();
 
