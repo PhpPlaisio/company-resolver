@@ -1,16 +1,16 @@
 {
-  "name": "setbased/abc-domain-resolver",
-  "description": "ABC Framework: Domain Resolver",
+  "name": "setbased/abc-company-resolver",
+  "description": "ABC Framework: Company Resolver",
   "keywords": [
-    "framework",
-    "domain",
-    "resolver"
+    "ABC-Framework",
+    "Company",
+    "Resolver"
   ],
   "type": "library",
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "SetBased\\Abc\\DomainResolver\\": "src/"
+      "SetBased\\Abc\\CompanyResolver\\": "src/"
     }
   }
 }
