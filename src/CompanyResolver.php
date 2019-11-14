@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace SetBased\Abc\CompanyResolver;
+namespace Plaisio\CompanyResolver;
 
 /**
  * Interface for CompanyResolvers. A CompanyResolver resolves the company under which a page request must be served.

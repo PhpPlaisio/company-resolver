@@ -1,19 +1,18 @@
 {
-  "name": "setbased/abc-company-resolver",
-  "description": "ABC-Framework: Company Resolver",
+  "name": "plaisio/company-resolver",
+  "description": "PhpPlaisio: Company Resolver",
   "keywords": [
-    "ABC-Framework",
+    "PhpPlaisio",
     "Company",
     "Resolver"
   ],
-  "type": "library",
   "license": "MIT",
   "require": {
     "php": ">=7.1.0"
   },
   "autoload": {
     "psr-4": {
-      "SetBased\\Abc\\CompanyResolver\\": "src/"
+      "Plaisio\\CompanyResolver\\": "src/"
     }
   }
 }
