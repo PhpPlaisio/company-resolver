@@ -1,0 +1,9 @@
+<kernel>
+    <properties>
+        <property>
+            <type>\Plaisio\CompanyResolver\CompanyResolver</type>
+            <name>company</name>
+            <description>The helper object for resolving the company.</description>
+        </property>
+    </properties>
+</kernel>
